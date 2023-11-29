@@ -1,0 +1,2 @@
+# JavascriptProjects
+For Javascript practice
